@@ -1,4 +1,33 @@
-### Hi there 👋
+# WELCOME TO MY PROFILE 💻   
+<br>
+
+## STUDIES 📚
+
+- Higher Technician in Multiplatform Application Development, Cybersecurity and Big Data  
+
+- High National Diploma in Computing    
+<br>
+
+## INTERESTS 🎯  
+
+- Artificial Intelligence 
+
+- Big Data
+  
+- Software Development (especially industrial, business, and multimedia software)
+
+- Robotics
+
+- Industry 4.0
+
+- IOT
+<br>
+
+## LANGUAGES📊  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alberto333X)
+
+
 
 <!--
 **alberto333X/alberto333X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

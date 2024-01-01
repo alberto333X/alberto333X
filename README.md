@@ -13,6 +13,8 @@
 - Artificial Intelligence 
 
 - Big Data
+
+- Cloud
   
 - Software Development (especially industrial, business, and multimedia software)
 

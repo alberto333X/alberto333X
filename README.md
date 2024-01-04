@@ -3,7 +3,7 @@
 
 ## STUDIES 📚
 
-- Higher Technician in Multiplatform Application Development, Cybersecurity and Big Data  
+- Higher Technician in Cross-Platform Application Development, Cybersecurity and Big Data  
 
 - High National Diploma in Computing    
 <br>

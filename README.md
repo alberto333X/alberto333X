@@ -12,7 +12,7 @@
 
 - Artificial Intelligence 
 
-- Big Data
+- Data Science and Big Data
 
 - Cloud
   
